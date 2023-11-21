@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(Student_Database_Management_System_in_C___Using_Mysql)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Student_Database_Management_System_in_C___Using_Mysql main.cpp)
